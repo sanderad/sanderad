@@ -1,4 +1,4 @@
-# Hola, soy Alexander Arias (Alito) 👋
+# Hola, soy Alexander Arias 👋
 ### Full Stack Developer | Node.js (TypeScript) & Vue.js
 
 Soy un desarrollador de software de Cali, Colombia 🇨🇴, enfocado en construir aplicaciones web escalables y arquitecturas limpias. Me especializo en crear soluciones **End-to-End**, desde el diseño de la arquitectura en el backend hasta la experiencia de usuario en el frontend.
@@ -49,7 +49,7 @@ La mayor parte de mi trabajo comercial se encuentra en repositorios privados baj
 
 Estoy abierto a nuevas oportunidades para colaborar en proyectos desafiantes.
 
-- 📄 **LinkedIn:** [Tu enlace a LinkedIn aquí]
+- 📄 **LinkedIn:** https://www.linkedin.com/in/alexander-arias-duque-82289630b/
 - 📧 **Email:** ariasduquealexander1@gmail.com
 
 ---
